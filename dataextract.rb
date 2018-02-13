@@ -1,9 +1,7 @@
 # Load Ruby Gems
 
 require 'yaml'
-require 'rubygems'
 require 'gmail'
-require 'nokogiri' 
 require 'selenium-webdriver'
 
 #Initialize
